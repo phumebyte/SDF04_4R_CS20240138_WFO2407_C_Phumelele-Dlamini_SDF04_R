@@ -30,6 +30,8 @@ body {
     font-size: 18px;
     margin-left: 40px;
     margin-right: 40px;
+    display: flex;
+    justify-content: center;
   }
   
   .pastry img {

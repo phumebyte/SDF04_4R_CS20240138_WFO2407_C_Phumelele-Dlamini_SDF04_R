@@ -19,7 +19,6 @@ body {
     border-radius: 10px;
     width: 80%;
     height: 20%;
-    position: relative; 
   }
   
   .pastry {
@@ -27,7 +26,6 @@ body {
     padding: 20px;
     border-radius: 50%;
     font-size: 18px;
-    position: absolute; 
   }
   
   .pastry img {
